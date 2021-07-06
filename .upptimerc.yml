@@ -13,7 +13,7 @@ status-website:
   baseUrl: /gluo-uptime
   logoUrl: https://gluo.be/wp-content/uploads/2020/09/logo-gluo.png
   name: Gluo
-  introTitle: "**Gluo** can help you in your digital transformation!"
+  introTitle: "**Gluo** is your one-stop DevOps shop."
   introMessage: This pages monitors public Gluo assets
   navbar:
     - title: Status
