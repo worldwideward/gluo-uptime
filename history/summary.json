@@ -4,7 +4,7 @@
     "url": "https://www.gluo.be",
     "icon": "https://favicons.githubusercontent.com/www.gluo.be",
     "slug": "gluo-be",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 1867,
     "timeMonth": 1947,
     "timeYear": 1947,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-25": 0
+    }
   }
 ]
