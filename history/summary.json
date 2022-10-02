@@ -2,7 +2,7 @@
   {
     "name": "gluo.be",
     "url": "https://www.gluo.be",
-    "icon": "https://favicons.githubusercontent.com/www.gluo.be",
+    "icon": "https://icons.duckduckgo.com/ip3/www.gluo.be.ico",
     "slug": "gluo-be",
     "status": "up",
     "uptime": "99.77%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1845,
-    "timeDay": 1497,
-    "timeWeek": 1605,
-    "timeMonth": 1768,
-    "timeYear": 1829,
+    "time": 1844,
+    "timeDay": 1634,
+    "timeWeek": 1636,
+    "timeMonth": 1745,
+    "timeYear": 1827,
     "dailyMinutesDown": {
       "2022-08-30": 107,
       "2022-06-23": 16
