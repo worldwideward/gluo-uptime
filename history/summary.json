@@ -4,7 +4,7 @@
     "url": "https://www.gluo.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.gluo.be.ico",
     "slug": "gluo-be",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1688,
     "timeYear": 1672,
     "dailyMinutesDown": {
+      "2023-10-19": 0,
       "2023-01-11": 21,
       "2023-01-04": 35,
       "2022-12-17": 179,
